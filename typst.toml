@@ -1,0 +1,8 @@
+[package]
+name = "preprintx"
+version = "0.1.0"
+entrypoint = "src/preprintx.typ"
+authors = ["Jonathan Skaza <https://jskaza.github.io>"]
+licence = "MIT"
+description = "A two-column preprint layout, inspired by HenriquesLab bioRxiv template."
+categories = ["paper"]
