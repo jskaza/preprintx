@@ -8,7 +8,7 @@ description = "A two-column preprint layout, inspired by HenriquesLab bioRxiv te
 repository = "https://github.com/jskaza/preprintx"
 keywords = ["preprint", "layout", "arXiv", "bioRxiv", "template", "twocolumn"]
 categories = ["paper", "layout"]
-exclude = ["example.png", "example.pdf"]
+exclude = ["example.png", "*.pdf"]
 
 [template]
 path = "template"
