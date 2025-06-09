@@ -73,7 +73,7 @@ Add figures and tables:
 
 ## API
 
-### twocol-preprint.with
+### preprintx.with
 
 - **title**: `String` - Title of the document.
 - **authors**: `Array<(String, String)>` - List of author tuples containing (name, affiliation indices). 
