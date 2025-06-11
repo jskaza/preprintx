@@ -128,7 +128,7 @@ This template requires these two fonts to be installed on your system:
 - Without `#v(-3em)` prior to references, there is too much of a break
 - Better support for figure placement
 
-`template/fig.jpeg` credit: dima_zel / Getty Images (iStockphoto). Licensed under the Getty Images Content License Agreement
+`template/fig.jpeg` credit: dima_zel / Getty Images (iStockphoto). Licensed under the Getty Images Content License Agreement.
 
 ## License
 
