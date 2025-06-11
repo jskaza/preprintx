@@ -1,8 +1,11 @@
 # preprintx
 
+[![Typst Package](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FMc-Zen%2Fquill%2Fv0.1.0%2Ftypst.toml&query=%24.package.version&prefix=v&logo=typst&label=package&color=239DAD)](https://typst.app/universe/package/preprintx)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A Typst rewrite of [HenriquesLab bioRxiv template](https://www.overleaf.com/latex/templates/henriqueslab-biorxiv-template/nyprsybwffws) for manuscripts.
 
-![Example](example.png)
+![Example](https://raw.githubusercontent.com/jskaza/preprintx/refs/heads/main/example.png)
 
 ## Usage
 
